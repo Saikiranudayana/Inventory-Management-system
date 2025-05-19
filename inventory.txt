@@ -1,4 +1,4 @@
 1,5 star,5 ,100
 2,Milky Bar ,5 ,100
-3,Cake,300,2
+3,Cake,300,0
 4,Coke,40 ,5
